@@ -20,6 +20,7 @@ FlashPrint 5.x Profiles Collection
 * Finder
 * Finder 3
 * Guider
+* Guider 3 Plus
 * Guider II
 * Guider II S Series
 * Inventor II Series
