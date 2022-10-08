@@ -4,24 +4,27 @@ FlashPrint 5.x Profiles Collection
 
 ## Included:
 
-* Adventurer 3 Series
-* Adventurer 4 Series
-* Artemis
-* Creator 3
-* Creator 3 Pro
-* Creator 4
-* Creator Max
-* Creator Max 2
-* Creator Pro
-* Creator Pro 2
-* Creator Pro T
-* Dreamer
-* Dreamer NX
-* Finder
-* Finder 3
-* Guider
-* Guider 3 Plus
-* Guider II
-* Guider II S Series
-* Inventor II Series
-* Inventor Series
+| Printer | Machine ID |
+| ------- | :--------: |
+| Adventurer 3 Series | 9 |
+| Adventurer 4 Series | 21 |
+| Artemis | 25 |
+| Creator 3 | 12 |
+| Creator 3 Pro | 22 |
+| Creator 4 | 19 |
+| Creator Max | 16 |
+| Creator Max 2 | 20 |
+| Creator Pro | 5 |
+| Creator Pro 2 | 17 |
+| Creator Pro T | 23 |
+| Dreamer | 0 |
+| Dreamer NX | 11 |
+| Finder | 2 |
+| Finder 3 | 24 |
+| Guider | 3 |
+| Guider 3 Plus | 26 |
+| Guider II | 6 |
+| Guider II S Series | 10 |
+| Inventor II Series | 8 |
+| Inventor Series | 7 |
+
