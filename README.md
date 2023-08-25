@@ -25,6 +25,7 @@ FlashPrint 5.x Profiles Collection
 | Finder 3 | 24 |
 | Guider | 3 |
 | Guider 3 Plus | 26 |
+| Guider 3 Ultra | 28 |
 | Guider II | 6 |
 | Guider II S Series | 10 |
 | Inventor II Series | 8 |
