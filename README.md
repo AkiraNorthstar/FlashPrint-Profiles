@@ -10,6 +10,8 @@ FlashPrint 5.x Profiles Collection
 | Adventurer 3 Pro 2 | 30 |
 | Adventurer 4 Pro | 29 |
 | Adventurer 4 Series | 21 |
+| Adventurer 5 M | 33 |
+| Adventurer 5 M Pro | 34 |
 | Artemis | 25 |
 | Creator 3 | 12 |
 | Creator 3 Pro | 22 |
